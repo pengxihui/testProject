@@ -5,5 +5,7 @@ public class test1{
    
    public test1(){
       system.out.println("来来来来");
+	  
+	  dddddeeee
    }
 }
